@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@hapi/eslint-plugin": "^7.0.0"
+    "@hapi/eslint-plugin": "^7.0.0",
+    "@hapi/hapi": "^21.4.0"
   }
 }
